@@ -1,0 +1,40 @@
+cff-version: 1.2.0
+message: "If you reference this investigation, please cite it as below."
+type: software
+title: "AetherHarness: Integrated Operational Harness Integrity in Autonomous Multi-Agent Systems"
+version: 0.1.0
+doi: 10.5281/zenodo.24425655
+identifiers:
+  - type: doi
+    value: 10.5281/zenodo.24425655
+    description: "Zenodo Archive (Primary DOI)"
+  - type: doi
+    value: 10.6084/m9.figshare.35084839
+    description: "Figshare Archive (Alternative DOI)"
+  - type: url
+    value: "https://github.com/gitdeeper15/aetherharness"
+    description: "GitHub Repository"
+authors:
+  - family-names: "Baladi"
+    given-names: "Samir"
+    orcid: "https://orcid.org/0009-0003-8903-0029"
+    affiliation: "Ronin Institute / Rite of Renaissance"
+repository-code: "https://github.com/gitdeeper15/aetherharness"
+url: "https://doi.org/10.5281/zenodo.24425655"
+license: CC-BY-4.0
+keywords:
+  - Aether family
+  - boundary investigation
+  - synchronization remainder
+  - compositional reconstruction
+  - falsification-first
+  - architectural investigation
+  - candidate 14
+  - undetermined
+abstract: >-
+  AetherHarness is the fourteenth candidate of the Aether family. It investigates
+  whether the composition of existing Aether dimensions is sufficient to guarantee
+  synchronization across responsibilities, or whether an architectural remainder
+  remains outside current coverage. Current status: Boundary Investigation
+  (Externally Reviewed — Recommendation (a)). Phase 0: NOT AUTHORIZED. Decision: (E) Undetermined.
+date-released: 2026-11-22

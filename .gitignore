@@ -1,0 +1,26 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+env/
+venv/
+.venv/
+
+# OS
+.DS_Store
+Thumbs.db
+*.swp
+
+# Temporary files
+*.tmp
+*.log
+temp_*.html
+
+# Netlify (deployed separately)
+# PUBLICATION/Netlify/public/  # Uncomment if you don't want to track the site
+
+# Editor
+.vscode/
+.idea/

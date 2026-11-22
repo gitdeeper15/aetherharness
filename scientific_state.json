@@ -1,0 +1,50 @@
+{
+  "project": "AetherHarness",
+  "version": "0.1.0",
+  "candidate": "#14",
+  "family": "Aether",
+  "status": "Boundary Investigation (EXTERNALLY REVIEWED \u2014 RECOMMENDATION (a))",
+  "phase_0": "NOT AUTHORIZED",
+  "architectural_hypothesis": "UNFORMULATED",
+  "implementation": "NOT AUTHORIZED",
+  "investigation_scope": {
+    "boundary_investigation": "AUTHOR DECLARED, EXTERNALLY REVIEWED",
+    "individual_dimension_coverage": "PARTIAL (identified, not complete)",
+    "complete_synchronization_coverage": "NOT IDENTIFIED",
+    "compositional_reconstruction": "INSUFFICIENT EVIDENCE",
+    "synchronization_remainder": "CANDIDATE (undetermined)",
+    "aetherharness_independence": "UNDETERMINED"
+  },
+  "falsification_tests": {
+    "HRT-01": "PENDING",
+    "HRT-02": "PENDING"
+  },
+  "external_review": {
+    "protocol": "REVIEW/INDEPENDENT_REVIEW_PROTOCOL.md",
+    "reviewer": "Jonathan Rabe",
+    "status": "COMPLETED",
+    "review_document": "REVIEW/INDEPENDENT_REVIEW.md",
+    "date_invited": "2026-11-22",
+    "date_completed": "2026-11-22",
+    "recommendation": "(a) Confirm the current state",
+    "independence_declared": true,
+    "conflict_of_interest": "None"
+  },
+  "decision": "E_undetermined",
+  "structural_dependency": [
+    "Aether (dimensions under investigation)",
+    "AetherIntent (methodological reference only)"
+  ],
+  "doi": "10.5281/zenodo.24425655",
+  "license": "CC-BY-4.0",
+  "reopen_conditions": [
+    "New Aether paper published",
+    "New external literature on synchronization",
+    "New evidence on compositional coverage",
+    "New evidence on independence"
+  ],
+  "review": "author declared (Samir Baladi, 2026-11-22); external review completed by Jonathan Rabe (2026-11-22), recommendation (a)",
+  "experiments": "none",
+  "code": "none",
+  "alternative_doi": "10.6084/m9.figshare.35084839"
+}

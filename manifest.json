@@ -1,0 +1,24 @@
+{
+  "name": "AetherHarness",
+  "version": "0.1.0",
+  "candidate": 14,
+  "family": "Aether",
+  "description": "Synchronization Remainder Investigation \u2014 falsification-first architectural boundary investigation",
+  "author": "Samir Baladi",
+  "orcid": "0009-0003-8903-0029",
+  "doi": "10.5281/zenodo.24425655",
+  "license": "CC-BY-4.0",
+  "phase": "Boundary Investigation (EXTERNALLY REVIEWED \u2014 RECOMMENDATION (a))",
+  "phase_0": "NOT AUTHORIZED",
+  "decision": "E_undetermined",
+  "external_review": {
+    "protocol": "REVIEW/INDEPENDENT_REVIEW_PROTOCOL.md",
+    "reviewer": "Jonathan Rabe",
+    "status": "COMPLETED",
+    "recommendation": "(a)",
+    "date_completed": "2026-11-22"
+  },
+  "github": "https://github.com/gitdeeper15/aetherharness",
+  "url": "https://doi.org/10.5281/zenodo.24425655",
+  "alternative_doi": "10.6084/m9.figshare.35084839"
+}
