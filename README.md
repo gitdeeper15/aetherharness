@@ -416,3 +416,33 @@ AetherHarness v0.1.0 — Integrated Operational Harness Integrity
 Zenodo DOI (v0.1.0): 10.5281/zenodo.24425655 · Figshare DOI: 10.6084/m9.figshare.35084839
 
 AetherHarness is a candidate, not a result.
+
+## Figures
+
+Figures 1 to 4 are described in the paper and stored in [`docs/figures/`](docs/figures/).
+
+### Figure 1 — Status Taxonomy
+
+![Figure 1: Status Taxonomy](docs/figures/Fig1_Status_Taxonomy.png)
+
+*Status taxonomy: Externally Reviewed, HRT Pending, Phase 0 Not Authorized.*
+
+### Figure 2 — Overlap Matrix
+
+![Figure 2: Overlap Matrix](docs/figures/Fig2_Overlap_Matrix.png)
+
+*Overlap matrix: H1–H5 responsibilities vs. Aether dimensions.*
+
+### Figure 3 — Investigation Flow
+
+![Figure 3: Investigation Flow](docs/figures/Fig3_Investigation_Flow.png)
+
+*Investigation flow: BOUNDARY → HRT-01/02 → Composition → External Review.*
+
+### Figure 4 — The Five Candidate Responsibilities
+
+![Figure 4: The Five Candidate Responsibilities](docs/figures/Fig4_Five_Responsibilities.png)
+
+*The five candidate responsibilities (H1–H5) and their primary overlaps.*
+
+---
