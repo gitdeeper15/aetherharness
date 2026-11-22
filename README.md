@@ -10,7 +10,7 @@
 
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.24425655.svg)](https://doi.org/10.5281/zenodo.24425655)
 [![Figshare](https://img.shields.io/badge/Figshare-10.6084%2Fm9.figshare.35084839-blue)](https://doi.org/10.6084/m9.figshare.35084839)
-[![Website](https://img.shields.io/badge/Website-aetherharness.netlify.app-00C7B7?logo=netlify&logoColor=white)](https://aetherharness.netlify.app)
+[![Website](https://img.shields.io/badge/Website-aether-harness.netlify.app-00C7B7?logo=netlify&logoColor=white)](https://aether-harness.netlify.app)
 [![License: CC BY 4.0](https://img.shields.io/badge/License-CC%20BY%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by/4.0/)
 [![ORCID](https://img.shields.io/badge/ORCID-0009--0003--8903--0029-a6ce39?logo=orcid&logoColor=white)](https://orcid.org/0009-0003-8903-0029)
 
@@ -23,7 +23,7 @@
 
 <br>
 
-**[Website](https://aetherharness.netlify.app)** · **[Paper (PDF)](paper/AetherHarness_Research_Paper_v0.1.0.pdf)** · **[Zenodo](https://doi.org/10.5281/zenodo.24425655)** · **[Figshare](https://doi.org/10.6084/m9.figshare.35084839)** · **[Status](STATUS.md)** · **[Independent Review](REVIEW/INDEPENDENT_REVIEW.md)**
+**[Website](https://aether-harness.netlify.app)** · **[Paper (PDF)](paper/AetherHarness_Research_Paper_v0.1.0.pdf)** · **[Zenodo](https://doi.org/10.5281/zenodo.24425655)** · **[Figshare](https://doi.org/10.6084/m9.figshare.35084839)** · **[Status](STATUS.md)** · **[Independent Review](REVIEW/INDEPENDENT_REVIEW.md)**
 
 <br>
 
@@ -87,7 +87,7 @@ This repository contains **no** `src/`, `tests/` or `experiments/`. It **does** 
 | **Current release** | v0.1.0 — [Zenodo](https://doi.org/10.5281/zenodo.24425655) · [Figshare](https://doi.org/10.6084/m9.figshare.35084839) |
 | **Paper** | 34 pages · ~9,500 words · 30 references |
 | **PDF in this repo** | [`paper/AetherHarness_Research_Paper_v0.1.0.pdf`](paper/AetherHarness_Research_Paper_v0.1.0.pdf) |
-| **Website** | [aetherharness.netlify.app](https://aetherharness.netlify.app) |
+| **Website** | [aether-harness.netlify.app](https://aether-harness.netlify.app) |
 
 ---
 
@@ -415,7 +415,7 @@ Machine-readable metadata is in [`CITATION.cff`](CITATION.cff), so GitHub shows 
 |---|---|
 | **Email** | [gitdeeper@gmail.com](mailto:gitdeeper@gmail.com) |
 | **ORCID** | [0009-0003-8903-0029](https://orcid.org/0009-0003-8903-0029) |
-| **Website** | [aetherharness.netlify.app](https://aetherharness.netlify.app) |
+| **Website** | [aether-harness.netlify.app](https://aether-harness.netlify.app) |
 | **GitHub** | [gitdeeper15/aetherharness](https://github.com/gitdeeper15/aetherharness) |
 | **GitLab** | [gitlab.com/gitdeeper15/aetherharness](https://gitlab.com/gitdeeper15/aetherharness) |
 | **Codeberg** | [codeberg.org/gitdeeper15/aetherharness](https://codeberg.org/gitdeeper15/aetherharness) |
