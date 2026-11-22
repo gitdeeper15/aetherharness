@@ -330,25 +330,25 @@ Figures 1 to 4 are described in the paper and stored in docs/figures/.
 
 Figure 1 — Status Taxonomy
 
-docs/figures/Fig1_Status_Taxonomy.png
+https://raw.githubusercontent.com/gitdeeper15/aetherharness/main/docs/figures/Fig1_Status_Taxonomy.png
 
 Status taxonomy: Externally Reviewed, HRT Pending, Phase 0 Not Authorized.
 
 Figure 2 — Overlap Matrix
 
-docs/figures/Fig2_Overlap_Matrix.png
+https://raw.githubusercontent.com/gitdeeper15/aetherharness/main/docs/figures/Fig2_Overlap_Matrix.png
 
 Overlap matrix: H1–H5 responsibilities vs. Aether dimensions.
 
 Figure 3 — Investigation Flow
 
-docs/figures/Fig3_Investigation_Flow.png
+https://raw.githubusercontent.com/gitdeeper15/aetherharness/main/docs/figures/Fig3_Investigation_Flow.png
 
 Investigation flow: BOUNDARY → HRT-01/02 → Composition → External Review.
 
 Figure 4 — The Five Candidate Responsibilities
 
-docs/figures/Fig4_Five_Responsibilities.png
+https://raw.githubusercontent.com/gitdeeper15/aetherharness/main/docs/figures/Fig4_Five_Responsibilities.png
 
 The five candidate responsibilities (H1–H5) and their primary overlaps.
 
